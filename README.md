@@ -1,10 +1,10 @@
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4232,100:2f5d45&height=180&section=header&text=Louis%20Freeman&fontColor=f8fafc&fontSize=52&fontAlignY=38&desc=Senior%20Full%20Stack%20Software%20Engineer%20%C2%B7%20London&descAlignY=60&descSize=16" alt="Louis Freeman, Senior Full Stack Software Engineer, London" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4232,100:2f5d45&height=240&section=header&text=Louis%20Freeman&fontColor=f8fafc&fontSize=52&fontAlignY=34&desc=Senior%20Full%20Stack%20Software%20Engineer%20%C2%B7%20London&descAlignY=52&descSize=16" alt="Louis Freeman, Senior Full Stack Software Engineer, London" />
 
 <div align="center">
 
 <a href="https://louisfreeman.co.uk">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=64748B&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Louis.;a+senior+software+engineer.;a+problem+solver.;a+team+lead." alt="Hi, I'm Louis. A senior software engineer, a problem solver, a team lead." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=2F5D45&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Louis.;a+senior+software+engineer.;a+problem+solver.;a+team+lead." alt="Hi, I'm Louis. A senior software engineer, a problem solver, a team lead." />
 </a>
 
 <br />
