@@ -36,7 +36,7 @@ I'm a full stack engineer working across **React/TypeScript** and **Ruby on Rail
   </a>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,git,linux,vscode&perline=8" alt="AWS, Terraform, Docker, Kubernetes, GitHub Actions, Git, Linux, VS Code" />
+    <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,git,vscode&perline=8" alt="AWS, Terraform, Docker, Kubernetes, GitHub Actions, Git, VS Code" />
   </a>
 </p>
 
