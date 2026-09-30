@@ -1,5 +1,5 @@
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=180&section=header&text=Louis%20Freeman&fontColor=f8fafc&fontSize=52&fontAlignY=38&desc=Senior%20Full%20Stack%20Software%20Engineer%20%C2%B7%20London&descAlignY=60&descSize=16" alt="Louis Freeman, Senior Full Stack Software Engineer, London" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4232,100:2f5d45&height=180&section=header&text=Louis%20Freeman&fontColor=f8fafc&fontSize=52&fontAlignY=38&desc=Senior%20Full%20Stack%20Software%20Engineer%20%C2%B7%20London&descAlignY=60&descSize=16" alt="Louis Freeman, Senior Full Stack Software Engineer, London" />
 
 <div align="center">
 
@@ -94,4 +94,4 @@ I'm a full stack engineer working across **React/TypeScript** and **Ruby on Rail
 
 Rugby · Golf · Football · Surfing · Cooking · Photography · Travelling
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,100:0f172a&height=100&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2f5d45,100:1f4232&height=100&section=footer" alt="" />
